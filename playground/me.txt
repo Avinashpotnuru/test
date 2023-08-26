@@ -1,0 +1,3 @@
+Name: Avinash
+Skills: HTML, CSS,TaiLwind CSS, JS,React, Next.js,Redux Toolkit
+Email: potnuruavinash111@gmail.com
